@@ -1,0 +1,4 @@
+/home/leonardoti03/codes/github/Spring-Boot/backend/src/main/java/com/exemplo/crud/ProdutoApiApplication.java
+/home/leonardoti03/codes/github/Spring-Boot/backend/src/main/java/com/exemplo/crud/entity/Produto.java
+/home/leonardoti03/codes/github/Spring-Boot/backend/src/main/java/com/exemplo/crud/repository/ProdutoRepository.java
+/home/leonardoti03/codes/github/Spring-Boot/backend/src/main/java/com/exemplo/crud/service/ProdutoService.java

@@ -1,0 +1,4 @@
+com/exemplo/crud/repository/ProdutoRepository.class
+com/exemplo/crud/ProdutoApiApplication.class
+com/exemplo/crud/service/ProdutoService.class
+com/exemplo/crud/entity/Produto.class
