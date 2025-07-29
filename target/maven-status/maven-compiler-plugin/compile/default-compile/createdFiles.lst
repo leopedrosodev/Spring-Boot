@@ -1,0 +1,5 @@
+com\exemplo\crud\ProdutoApiApplication.class
+com\exemplo\crud\controller\ProdutoController.class
+com\exemplo\crud\repository\ProdutoRepository.class
+com\exemplo\crud\entity\Produto.class
+com\exemplo\crud\service\ProdutoService.class
